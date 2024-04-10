@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niyati Gupta</h1>
-<h3 align="center">Full Stack Developer looking for exciting job opportunities.</h3>
-
+<h3 align="center" >Full Stack Developer looking for exciting job opportunities.</h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmmESkw2u6PlqBDgrQ2b1Kbf-EPRtLvyTb3bKZvdCXA&s" alt=""/>
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **gniyati20@gmail.com**

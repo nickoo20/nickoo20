@@ -3,7 +3,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmmESkw2u6PlqBDgrQ2b1Kbf-EPRtLvyTb3bKZvdCXA&s" alt=""/>
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **gniyati20@gmail.com**
+- 📫 How to reach me **niyati.offcampus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

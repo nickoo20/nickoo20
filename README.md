@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Niyati Gupta</h1>
-<h3 align="center" >Full Stack Developer looking for exciting job opportunities.</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmmESkw2u6PlqBDgrQ2b1Kbf-EPRtLvyTb3bKZvdCXA&s" alt=""/>
-- 🌱 I’m currently learning **Next.js**
+<h1 align="center">Hi 👋, I'm Niyati Gupta!</h1>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8FvvXjYKhSP2cASxq3YT4X9bT0MNc6W-UA&s" alt=""/>
+</p>
+<h3 align="center" >A Full-stack Developer creating efficient, user-friendly web applications.</h3>
+
+- 🌱 I’m currently exploring Machine Learning.
 
 - 📫 How to reach me **niyati.offcampus@gmail.com**
 
